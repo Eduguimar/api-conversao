@@ -5,5 +5,4 @@ Aplicação simples em node.js para conversão de graus celsius para gerada para
 
 Este projeto tem como objetivo introduzir o funcionamento do Docker, na execução de containers e criação de imagens.
 
-Projeto em funcionamento na Azure Cloud:
-https://api-docker-test.azurewebsites.net/api-docs
+O projeto foi disponibilizado na Azure Cloud, através de container docker.
